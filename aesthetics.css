@@ -1,0 +1,24 @@
+/* Change background to pastel color */
+/* Center the title */
+/* Center the Image */
+/* Leave Play button and rules to the left */
+body{
+  background-color: #F9E1E0
+}
+
+h1,table,div{
+  display: flex;
+  justify-content: center
+}
+
+td{
+  font-size: 24px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
